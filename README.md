@@ -4,7 +4,7 @@ Decidi aprender a linguagem <a href="https://www.php.net/docs.php">PHP</a> porqu
 
 ## Aprendizado
 1. PHP funciona do lado do servidor pré-processando o código e enviando o resultado para o cliente;
-2. Existem cinco formas de inserir PHP em um código HTML5, contudo algumas demandam a configuração do arquivo SETUP.ini;
+2. Existem cinco formas de inserir PHP em um código HTML5, contudo algumas demandam a configuração do arquivo PHP.ini;
 3. A exibir data e hora locais
 ```
 date_default_timezone_set("America/Sao_Paulo");
@@ -22,7 +22,7 @@ echo phpinfo();
 print phpinfo();
 //  o comando print vem da linguagem C também usada na construção da linguagem, exibe dados na tela igualmente ao comando echo
 ```
-6. A forma mais utilizada de inserção do PHP em HTML5 é a SUPER TAG **<?php?>**, essa não necessita de configuração do SETUP.ini
+6. A forma mais utilizada de inserção do PHP em HTML5 é a SUPER TAG **<?php?>**, essa não necessita de configuração do PHP.ini
 
 ## Curiosidades importantes
 
