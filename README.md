@@ -4,7 +4,7 @@ Decidi aprender a linguagem <a href="https://www.php.net/docs.php">PHP</a> porqu
 
 ## Aprendizado
 1. PHP funciona do lado do servidor pré-processando o código e enviando o resultado para o cliente;
-2. Existem cinco formas de inserir PHP em um código HTML5, contudo algumas demandam a configuração do arquivo PHP.ini;
+2. Existem<a href="https://www.notion.so/php-ini-23c5b2ac62c88022880af5916f3b71d7?source=copy_link"> cinco formas de inserir PHP em um código HTML5</a>, contudo algumas demandam a <a href="https://www.notion.so/php-ini-23c5b2ac62c88022880af5916f3b71d7?source=copy_link">configuração do arquivo php.ini</a>;
 3. A exibir data e hora locais
 ```
 date_default_timezone_set("America/Sao_Paulo");
