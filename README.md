@@ -1,4 +1,4 @@
-# Curso de PHP
+# Curso de PHP do Curso em Vídeo
 
 Decidi aprender a linguagem <a href="https://www.php.net/docs.php">PHP</a> porque apesar do que muitos dizem sobre a "morte" da linguagem ainda existe muitos sites que utilizam PHP em sua estrutura, também decidi aprender em paralelo com o conhecimento de HTML5, CSS3 e Javascript, desta forma consolido ainda mais os meus conhecimentos web.Realizo este curso pelo canal do <a href=" https://youtube.com/playlist?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_&feature=shared">Curso em Vídeo</a>, no Youtube.
 
